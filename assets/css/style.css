@@ -185,8 +185,10 @@ text-transform: uppercase;
     padding: 8px;
   }
 }
+
 @media (min-width: 1024px) {
   .student-discount {
     justify-content: flex-start; /* Aligns the button to the left */
     padding-left: 20px; /* Optional: adds space from the left edge */
   }
+}
